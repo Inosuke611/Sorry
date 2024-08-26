@@ -6,9 +6,9 @@ const textConfig = {
   text5: "Anh mơ à:)",
   text6: "Tất Nhiên Là Có rồi<3",
   text7: "Nếu tha lỗi cho anh thì hứa đừng giận anh nữa nhá ❤️",
-  text8: "Anh biết mà yêuu emmm ạ <3",
-  text9: "luôn yêu a, thương a 3000<3",
-  text10: "tớ biết mà^^ mãi 1 tình yêu",
+  text8: "Gửi cho anh<3",
+  text9: "Luôn yêu a, thương a 3000<3",
+  text10: "Anh biết mà^^ mãi 1 tình yêu",
   text11:
     "Tối nay gặp cho a ôm em một cái nha<3",
   text12: "Okkk luôn",
